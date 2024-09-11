@@ -36,6 +36,8 @@ Fix RDAR issue when Dynamic Island is enabled on iPhone XR/11, 17.0 to 18.0 RC1
 ### For Windows
 - Just leave nothing in the plist file then do Apply in Cowabunga Lite
 
+<img src="Img/uninstall.png">
+
 ## Special thanks to 💖
 
 - [straight-tamago](https://x.com/straight_tamago) and [Little_34306](https://x.com/Little_34306) for [MisakaX](https://github.com/straight-tamago/misakaX)
