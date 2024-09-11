@@ -17,11 +17,16 @@ Fix RDAR issue when Dynamic Island is enabled on iPhone XR/11, 17.0 to 18.0 RC1
 
 4. Navigate to `C:\Users\xxx\AppData\Roaming\CowabungaLite\Workspace\000-YOUR-DEVICE-UUID\SkipSetup\ManagedPreferencesDomain\mobile`
 5. Paste the plist you just downloaded into the `mobile` folder
+
 <img src="Img/2.png">
 
 6. Go back to Cowabunga Lite, click the Apply tab, and then press the Apply button, the device will reboot after that
-7. After applying the resolution, use [MisakaX](https://github.com/straight-tamago/misakaX) or Nugget to enable Dynamic Island (2796)
+
 <img src="Img/3.png">
+
+7. After applying the resolution, use [MisakaX](https://github.com/straight-tamago/misakaX) or Nugget to enable Dynamic Island (2796)
+
+<img src="Img/4.png">
 
 ## For macOS
 ### COMING SOON
