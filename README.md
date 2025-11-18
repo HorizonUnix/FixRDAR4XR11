@@ -1,7 +1,7 @@
 # FixRDAR4XR11
-Fix RDAR issue when Dynamic Island is enabled on iPhone XR/11, from iOS 16.0 to 18.1.1
+Fix RDAR issue when Dynamic Island is enabled on iPhone XR/11
 
-([leminlimez](https://x.com/leminlimez) didn't give me any credit for discovering this method first and he's a fucking selfish btw)
+([leminlimez](https://x.com/leminlimez) didn't give me any credit for discovering this method first)
 ### Pros (compared to MDC/KFD method)
 - This is applied permanently (does not disappear after a reboot or respring).
 
